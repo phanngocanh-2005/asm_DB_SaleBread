@@ -1,0 +1,300 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\OWNER\\Documents\\SellBread\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC5C9B5-1AA0-45D7-BDF3-B59B74B4C557}|SellBread\\SellBread.csproj|c:\\users\\owner\\documents\\sellbread\\sellbread\\warehousemanagerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EC5C9B5-1AA0-45D7-BDF3-B59B74B4C557}|SellBread\\SellBread.csproj|solutionrelative:sellbread\\warehousemanagerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC5C9B5-1AA0-45D7-BDF3-B59B74B4C557}|SellBread\\SellBread.csproj|C:\\Users\\OWNER\\Documents\\SellBread\\sellbread\\warehousemanagerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2EC5C9B5-1AA0-45D7-BDF3-B59B74B4C557}|SellBread\\SellBread.csproj|solutionrelative:sellbread\\warehousemanagerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC5C9B5-1AA0-45D7-BDF3-B59B74B4C557}|SellBread\\SellBread.csproj|C:\\Users\\OWNER\\Documents\\SellBread\\sellbread\\saleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EC5C9B5-1AA0-45D7-BDF3-B59B74B4C557}|SellBread\\SellBread.csproj|solutionrelative:sellbread\\saleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC5C9B5-1AA0-45D7-BDF3-B59B74B4C557}|SellBread\\SellBread.csproj|C:\\Users\\OWNER\\Documents\\SellBread\\sellbread\\saleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2EC5C9B5-1AA0-45D7-BDF3-B59B74B4C557}|SellBread\\SellBread.csproj|solutionrelative:sellbread\\saleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC5C9B5-1AA0-45D7-BDF3-B59B74B4C557}|SellBread\\SellBread.csproj|C:\\Users\\OWNER\\Documents\\SellBread\\sellbread\\orderhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EC5C9B5-1AA0-45D7-BDF3-B59B74B4C557}|SellBread\\SellBread.csproj|solutionrelative:sellbread\\orderhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC5C9B5-1AA0-45D7-BDF3-B59B74B4C557}|SellBread\\SellBread.csproj|C:\\Users\\OWNER\\Documents\\SellBread\\sellbread\\orderhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2EC5C9B5-1AA0-45D7-BDF3-B59B74B4C557}|SellBread\\SellBread.csproj|solutionrelative:sellbread\\orderhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC5C9B5-1AA0-45D7-BDF3-B59B74B4C557}|SellBread\\SellBread.csproj|C:\\Users\\OWNER\\Documents\\SellBread\\sellbread\\manageemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EC5C9B5-1AA0-45D7-BDF3-B59B74B4C557}|SellBread\\SellBread.csproj|solutionrelative:sellbread\\manageemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC5C9B5-1AA0-45D7-BDF3-B59B74B4C557}|SellBread\\SellBread.csproj|C:\\Users\\OWNER\\Documents\\SellBread\\sellbread\\manageemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2EC5C9B5-1AA0-45D7-BDF3-B59B74B4C557}|SellBread\\SellBread.csproj|solutionrelative:sellbread\\manageemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC5C9B5-1AA0-45D7-BDF3-B59B74B4C557}|SellBread\\SellBread.csproj|C:\\Users\\OWNER\\Documents\\SellBread\\sellbread\\manage product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EC5C9B5-1AA0-45D7-BDF3-B59B74B4C557}|SellBread\\SellBread.csproj|solutionrelative:sellbread\\manage product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC5C9B5-1AA0-45D7-BDF3-B59B74B4C557}|SellBread\\SellBread.csproj|C:\\Users\\OWNER\\Documents\\SellBread\\sellbread\\manage product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2EC5C9B5-1AA0-45D7-BDF3-B59B74B4C557}|SellBread\\SellBread.csproj|solutionrelative:sellbread\\manage product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC5C9B5-1AA0-45D7-BDF3-B59B74B4C557}|SellBread\\SellBread.csproj|C:\\Users\\OWNER\\Documents\\SellBread\\sellbread\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EC5C9B5-1AA0-45D7-BDF3-B59B74B4C557}|SellBread\\SellBread.csproj|solutionrelative:sellbread\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC5C9B5-1AA0-45D7-BDF3-B59B74B4C557}|SellBread\\SellBread.csproj|C:\\Users\\OWNER\\Documents\\SellBread\\sellbread\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2EC5C9B5-1AA0-45D7-BDF3-B59B74B4C557}|SellBread\\SellBread.csproj|solutionrelative:sellbread\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC5C9B5-1AA0-45D7-BDF3-B59B74B4C557}|SellBread\\SellBread.csproj|C:\\Users\\OWNER\\Documents\\SellBread\\sellbread\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EC5C9B5-1AA0-45D7-BDF3-B59B74B4C557}|SellBread\\SellBread.csproj|solutionrelative:sellbread\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC5C9B5-1AA0-45D7-BDF3-B59B74B4C557}|SellBread\\SellBread.csproj|C:\\Users\\OWNER\\Documents\\SellBread\\sellbread\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2EC5C9B5-1AA0-45D7-BDF3-B59B74B4C557}|SellBread\\SellBread.csproj|solutionrelative:sellbread\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC5C9B5-1AA0-45D7-BDF3-B59B74B4C557}|SellBread\\SellBread.csproj|C:\\Users\\OWNER\\Documents\\SellBread\\sellbread\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EC5C9B5-1AA0-45D7-BDF3-B59B74B4C557}|SellBread\\SellBread.csproj|solutionrelative:sellbread\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC5C9B5-1AA0-45D7-BDF3-B59B74B4C557}|SellBread\\SellBread.csproj|C:\\Users\\OWNER\\Documents\\SellBread\\sellbread\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2EC5C9B5-1AA0-45D7-BDF3-B59B74B4C557}|SellBread\\SellBread.csproj|solutionrelative:sellbread\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\OWNER\\AppData\\Local\\Temp\\.vsdbgsrc\\30dd5ab3f255e917e3701d86424784893d0c7d91dc5ac41982b3bee9060d479a\\FileDialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderHistory.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Documents\\SellBread\\SellBread\\OrderHistory.cs",
+              "RelativeDocumentMoniker": "SellBread\\OrderHistory.cs",
+              "ToolTip": "C:\\Users\\OWNER\\Documents\\SellBread\\SellBread\\OrderHistory.cs",
+              "RelativeToolTip": "SellBread\\OrderHistory.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAAFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T16:52:06.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FileDialog.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\AppData\\Local\\Temp\\.vsdbgsrc\\30dd5ab3f255e917e3701d86424784893d0c7d91dc5ac41982b3bee9060d479a\\FileDialog.cs",
+              "RelativeDocumentMoniker": "..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\30dd5ab3f255e917e3701d86424784893d0c7d91dc5ac41982b3bee9060d479a\\FileDialog.cs",
+              "ToolTip": "C:\\Users\\OWNER\\AppData\\Local\\Temp\\.vsdbgsrc\\30dd5ab3f255e917e3701d86424784893d0c7d91dc5ac41982b3bee9060d479a\\FileDialog.cs",
+              "RelativeToolTip": "..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\30dd5ab3f255e917e3701d86424784893d0c7d91dc5ac41982b3bee9060d479a\\FileDialog.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADAAAAAAAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T14:56:33.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WarehouseManagerForm.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Documents\\SellBread\\SellBread\\WarehouseManagerForm.cs",
+              "RelativeDocumentMoniker": "SellBread\\WarehouseManagerForm.cs",
+              "ToolTip": "C:\\Users\\OWNER\\Documents\\SellBread\\SellBread\\WarehouseManagerForm.cs",
+              "RelativeToolTip": "SellBread\\WarehouseManagerForm.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T10:19:33.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderHistory.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Documents\\SellBread\\SellBread\\OrderHistory.cs",
+              "RelativeDocumentMoniker": "SellBread\\OrderHistory.cs",
+              "ToolTip": "C:\\Users\\OWNER\\Documents\\SellBread\\SellBread\\OrderHistory.cs [Design]",
+              "RelativeToolTip": "SellBread\\OrderHistory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T16:49:39.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SaleForm.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Documents\\SellBread\\SellBread\\SaleForm.cs",
+              "RelativeDocumentMoniker": "SellBread\\SaleForm.cs",
+              "ToolTip": "C:\\Users\\OWNER\\Documents\\SellBread\\SellBread\\SaleForm.cs",
+              "RelativeToolTip": "SellBread\\SaleForm.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T16:44:38.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SaleForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Documents\\SellBread\\SellBread\\SaleForm.cs",
+              "RelativeDocumentMoniker": "SellBread\\SaleForm.cs",
+              "ToolTip": "C:\\Users\\OWNER\\Documents\\SellBread\\SellBread\\SaleForm.cs [Design]",
+              "RelativeToolTip": "SellBread\\SaleForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T12:51:42.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Documents\\SellBread\\SellBread\\LoginForm.cs",
+              "RelativeDocumentMoniker": "SellBread\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\OWNER\\Documents\\SellBread\\SellBread\\LoginForm.cs",
+              "RelativeToolTip": "SellBread\\LoginForm.cs",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAAALcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T15:00:56.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Documents\\SellBread\\SellBread\\LoginForm.cs",
+              "RelativeDocumentMoniker": "SellBread\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\OWNER\\Documents\\SellBread\\SellBread\\LoginForm.cs [Design]",
+              "RelativeToolTip": "SellBread\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T15:00:54.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Manage Product.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Documents\\SellBread\\SellBread\\Manage Product.cs",
+              "RelativeDocumentMoniker": "SellBread\\Manage Product.cs",
+              "ToolTip": "C:\\Users\\OWNER\\Documents\\SellBread\\SellBread\\Manage Product.cs",
+              "RelativeToolTip": "SellBread\\Manage Product.cs",
+              "ViewState": "AgIAAAcCAAAAAAAAAAAAACMCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T14:01:28.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Manage Product.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Documents\\SellBread\\SellBread\\Manage Product.cs",
+              "RelativeDocumentMoniker": "SellBread\\Manage Product.cs",
+              "ToolTip": "C:\\Users\\OWNER\\Documents\\SellBread\\SellBread\\Manage Product.cs [Design]",
+              "RelativeToolTip": "SellBread\\Manage Product.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T13:39:59.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ManageEmployee.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Documents\\SellBread\\SellBread\\ManageEmployee.cs",
+              "RelativeDocumentMoniker": "SellBread\\ManageEmployee.cs",
+              "ToolTip": "C:\\Users\\OWNER\\Documents\\SellBread\\SellBread\\ManageEmployee.cs [Design]",
+              "RelativeToolTip": "SellBread\\ManageEmployee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T13:13:30.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WarehouseManagerForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Documents\\SellBread\\SellBread\\WarehouseManagerForm.cs",
+              "RelativeDocumentMoniker": "SellBread\\WarehouseManagerForm.cs",
+              "ToolTip": "C:\\Users\\OWNER\\Documents\\SellBread\\SellBread\\WarehouseManagerForm.cs [Design]",
+              "RelativeToolTip": "SellBread\\WarehouseManagerForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T12:48:35.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdminForm.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Documents\\SellBread\\SellBread\\AdminForm.cs",
+              "RelativeDocumentMoniker": "SellBread\\AdminForm.cs",
+              "ToolTip": "C:\\Users\\OWNER\\Documents\\SellBread\\SellBread\\AdminForm.cs",
+              "RelativeToolTip": "SellBread\\AdminForm.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAAEMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T12:42:22.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AdminForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Documents\\SellBread\\SellBread\\AdminForm.cs",
+              "RelativeDocumentMoniker": "SellBread\\AdminForm.cs",
+              "ToolTip": "C:\\Users\\OWNER\\Documents\\SellBread\\SellBread\\AdminForm.cs [Design]",
+              "RelativeToolTip": "SellBread\\AdminForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T12:40:37.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ManageEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Documents\\SellBread\\SellBread\\ManageEmployee.cs",
+              "RelativeDocumentMoniker": "SellBread\\ManageEmployee.cs",
+              "ToolTip": "C:\\Users\\OWNER\\Documents\\SellBread\\SellBread\\ManageEmployee.cs",
+              "RelativeToolTip": "SellBread\\ManageEmployee.cs",
+              "ViewState": "AgIAALsBAAAAAAAAAAAmwOUBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T12:20:32.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Documents\\SellBread\\SellBread\\Customer.cs",
+              "RelativeDocumentMoniker": "SellBread\\Customer.cs",
+              "ToolTip": "C:\\Users\\OWNER\\Documents\\SellBread\\SellBread\\Customer.cs",
+              "RelativeToolTip": "SellBread\\Customer.cs",
+              "ViewState": "AgIAAHkBAAAAAAAAAAAAAJgBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T08:53:20.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Customer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Documents\\SellBread\\SellBread\\Customer.cs",
+              "RelativeDocumentMoniker": "SellBread\\Customer.cs",
+              "ToolTip": "C:\\Users\\OWNER\\Documents\\SellBread\\SellBread\\Customer.cs [Design]",
+              "RelativeToolTip": "SellBread\\Customer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T08:52:43.406Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
